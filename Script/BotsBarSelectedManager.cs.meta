@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 397d49ac4b12d4d42afe100278cdee90
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 169750
+  packageName: Racing Starter Kit
+  packageVersion: 1.1.5
+  assetPath: Assets/Racing Starter Kit/Assets/Scripts/BotsSelectedManager.cs
+  uploadId: 517465

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 36ed7128051760b42bc56c15e5a6657d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 169750
+  packageName: Racing Starter Kit
+  packageVersion: 1.1.5
+  assetPath: Assets/Racing Starter Kit/Assets/MainAssets/Vehicles/Car/Scripts/WheelDrive.cs
+  uploadId: 517465
